@@ -1,34 +1,34 @@
 # MentalHealth
 Analyzing the mental health of students.
 
+
+
 ## Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+RStudio was used to create a software program written in the R programming language. The program will read a.csv file containing mental health statistics and analyze specific columns to return useful graphs from which insights into student mental health can be gained. 
 
-{Provide a description of the software that you wrote to demonstrate the R language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+As a student, mental health is very important to me. Like many other students, I have suffered from depression and anxiety due to the demands of school and life. Having a better insight into what types of students are more prone to developing mental health issues allows professionals to offer tailored services and better preventative measures.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
+
+
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+RStudio
 
-{Describe the programming language that you used and any libraries.}
+R Programming Language
+
+
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+- [YouTube](https://www.youtube.com/watch?v=D_CNmYkGRUc)
+- [TutorialsPoint](https://www.tutorialspoint.com/r/r_csv_files.htm)
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - Item 1
 - Item 2
