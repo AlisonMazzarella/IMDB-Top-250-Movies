@@ -19,7 +19,6 @@ RStudio
 
 R Programming Language
 
-Hmisc Library
 
 
 
