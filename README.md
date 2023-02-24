@@ -19,6 +19,9 @@ RStudio
 
 R Programming Language
 
+ggplot2 library
+
+dplyr library
 
 
 
