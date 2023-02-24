@@ -33,6 +33,6 @@ ggplot2 library
 
 # Future Work
 
-- Item 1
-- Item 2
-- Item 3
+- I would like to understand how to create a for loop to read multiple .csv files.
+- It would be nice if my program had more graphs displaying calculation results.
+- The program is not visually appealing, sections with different functions are all stored in the same place. It would be nice if there was more organization. 
